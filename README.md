@@ -1,4 +1,5 @@
 # week02 - In-Class HomeWork Week2 Day1
 
 화면 출력 문자열 바꾸기
-![image](https://user-images.githubusercontent.com/79883576/110406417-87314d80-80c5-11eb-8e5a-ea4bbc9a2619.png)
+![image](https://user-images.githubusercontent.com/79883576/110407015-7c2aed00-80c6-11eb-863a-77c9ae5f9ef3.png)
+
